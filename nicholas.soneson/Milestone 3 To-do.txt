@@ -1,0 +1,48 @@
+Data Driven
+	Make the game info (mostly what is global in Game.h) to be read in from a file
+
+Tumbleweeds
+	When shot:
+		the Player's score should increase by however much the tumbleweeds are worth
+		Give Player coins
+		Remove tumbleweed	
+	
+Score system
+	Points from enemies, tumbleweeds
+	
+Sound system
+	Play some sound (either gunshots or music)
+		
+UI system
+	Player lives tracker
+	Enemy health bar
+	Currently active Powerups
+	
+Menu system
+	Load game from save file
+	Options
+		Powerups on/off (whether powerups should spawn in levels)
+		Language select
+		Difficulty level (Harder = enemies move and attack faster)
+		Audio on/off
+
+Player 
+	Lives
+	
+Powerups
+	Types:
+		Boots - speed up
+		Steroids - player can take an extra hit before dying
+		Large bullets - does more damage to enemies
+		Gun - firing speed up
+		Extra life - give player an extra life
+	Chance to randomly spawn around the play area
+	All last 10 seconds (except extra life)
+	
+Save system
+	Each manager should have a save() and load() function for their specific purposes
+	Then, a SaveManager could simply call those with a provided filename
+	
+Enemy
+	Health tracker
+	When killed, give score points

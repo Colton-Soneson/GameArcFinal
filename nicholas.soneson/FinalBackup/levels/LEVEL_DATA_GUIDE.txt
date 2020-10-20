@@ -1,0 +1,10 @@
+Level layout file (0 = no wall, 1 = place wall, P = player location, E = enemy location)
+Maximum X-value for level bounding zone (playable area)
+Maximum Y-value for level bounding zone (playable area)
+Minimum X-value for level bounding zone (playable area)
+Minimum Y-value for level bounding zone (playable area)
+Maximum X-value for level playable area
+Maximum Y-value for level playable area
+Minimum X-value for level playable area
+Minimum Y-value for level playable area
+Next level's data file (if there is no more level, put $ENDGAME$)

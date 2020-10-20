@@ -1,0 +1,44 @@
+PLAY
+el Playo
+LOAD
+la Loada
+OPTIONS
+los Optiones
+QUIT
+el Surrendo
+DIFFICULTY
+el Difficulto
+EASY
+Easio
+HARD
+Hardio
+ON
+Si
+OFF
+No
+SOUND
+las Soundas
+SELECT LANGUAGE
+la Lingua Selecto
+ENGLISH
+English
+SPANISH
+Spanisho
+POWERUPS
+Los Powero-Upos
+SCORE
+Scoro
+POWERS
+Powero
+LIVES
+Livos
+ENEMY HEALTH
+Enemio
+GO BACK
+Goa Backo
+TEELANG
+TeeTlang
+DEATH
+Deathio
+VICTORY
+Victoria

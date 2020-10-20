@@ -1,0 +1,77 @@
+﻿  BoundedZone.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(7,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(8,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(10,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(11,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(21,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(22,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(24,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BoundedZone.cpp(25,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Bullet.cpp(109,135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Bullet.cpp(109,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Bullet.cpp(116,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Bullet.cpp(121,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BulletManager.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BulletManager.cpp(31,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BulletManager.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BulletManager.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BulletManager.cpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\BulletManager.cpp(132,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DataLoader.cpp
+  Enemy.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Enemy.cpp(70,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Enemy.cpp(71,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EnemyManager.cpp
+  Game.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(176,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(176,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(278,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(278,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(542,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(543,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Game.cpp(555,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GraphicsBufferManager.cpp
+  InputTranslator.cpp
+  LanguageSelect.cpp
+  Level.cpp
+  main.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\main.cpp(22,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Player.cpp
+  Powerup.cpp
+  PowerupManager.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\PowerupManager.cpp(69,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\PowerupManager.cpp(70,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SaveSystem.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(199,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(200,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(251,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(252,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(315,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(316,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(332,93): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\SaveSystem.cpp(332,86): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Tumbleweed.cpp
+  TumbleweedManager.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\TumbleweedManager.cpp(9,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\TumbleweedManager.cpp(33,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\TumbleweedManager.cpp(34,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\TumbleweedManager.cpp(91,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\TumbleweedManager.cpp(110,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Unit.cpp
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Unit.cpp(31,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Unit.cpp(31,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Unit.cpp(42,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Unit.cpp(43,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  UnitManager.cpp
+  UserInterface.cpp
+  Generating Code...
+DeanLibDebug.lib(MemoryTracker.obj) : warning LNK4099: PDB 'DeanLib.pdb' was not found with 'DeanLibDebug.lib(MemoryTracker.obj)' or at 'C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\DeanLib.pdb'; linking object as if no debug info
+DeanLibDebug.lib(PerformanceTracker.obj) : warning LNK4099: PDB 'DeanLib.pdb' was not found with 'DeanLibDebug.lib(PerformanceTracker.obj)' or at 'C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\DeanLib.pdb'; linking object as if no debug info
+DeanLibDebug.lib(Timer.obj) : warning LNK4099: PDB 'DeanLib.pdb' was not found with 'DeanLibDebug.lib(Timer.obj)' or at 'C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\DeanLib.pdb'; linking object as if no debug info
+DeanLibDebug.lib(Trackable.obj) : warning LNK4099: PDB 'DeanLib.pdb' was not found with 'DeanLibDebug.lib(Trackable.obj)' or at 'C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\DeanLib.pdb'; linking object as if no debug info
+DeanLibDebug.lib(Vector2D.obj) : warning LNK4099: PDB 'DeanLib.pdb' was not found with 'DeanLibDebug.lib(Vector2D.obj)' or at 'C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\DeanLib.pdb'; linking object as if no debug info
+  final.vcxproj -> C:\Users\Account\Desktop\SVN Repos\sp19-egp310-03\nicholas.soneson\final\Debug\final.exe

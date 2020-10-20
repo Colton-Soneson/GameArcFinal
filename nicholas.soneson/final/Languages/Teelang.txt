@@ -1,0 +1,44 @@
+PLAY
+PlaTy
+LOAD
+LoTad
+OPTIONS
+OptionTs
+QUIT
+QuiTt
+DIFFICULTY
+DifficTulty
+EASY
+TEasy
+HARD
+THard
+ON
+OnT
+OFF
+OffT
+SOUND
+SoTund
+SELECT LANGUAGE
+SelTect LanguTage
+ENGLISH
+English
+SPANISH
+Spanisho
+POWERUPS
+PoTwerUps
+SCORE
+ScoreT
+POWERS
+Powers
+LIVES
+LiTves
+ENEMY HEALTH
+EneTmy
+GO BACK
+GoT BackT
+TEELANG
+TeeTlang
+DEATH
+DTeath
+VICTORY
+VictTory

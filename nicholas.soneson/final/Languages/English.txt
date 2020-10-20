@@ -1,0 +1,44 @@
+PLAY
+Play
+LOAD
+Load
+OPTIONS
+Options
+QUIT
+Quit
+DIFFICULTY
+Difficulty
+EASY
+Easy
+HARD
+Hard
+ON
+On
+OFF
+Off
+SOUND
+Sound
+SELECT LANGUAGE
+Select Language
+ENGLISH
+English
+SPANISH
+Spanisho
+POWERUPS
+PowerUps
+SCORE
+Score
+POWERS
+Power
+LIVES
+Lives
+ENEMY HEALTH
+Enemy
+GO BACK
+Go Back
+TEELANG
+TeeTlang
+DEATH
+Death
+VICTORY
+Victory

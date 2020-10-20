@@ -1,0 +1,56 @@
+Remove any hardcoding
+	sounds 
+	language files
+
+Enemy
+	Move/attack patterns
+		Randomly: left, right, stop; random firing upwards
+	Enemies might hit each other!!!!
+		Give a bool to each bullet (mFromPlayer = false, set true if player fires a shot), 
+		then check for it in BulletManager's checkCollision() to see whther or not damage should be applied to Enemy
+	Change shot delay, movespeed, and health based on difficulty
+
+Finish load system
+	Bullets, etc.
+
+Implement remaining powerups
+	Body Armor - player can take an extra hit before dying
+	Large bullets - does more damage to enemies
+	Gun - firing speed up
+	Extra life - give player an extra life
+	All last 10 seconds (except extra life and body armor)
+
+Player
+	handle player death
+	
+Menu
+	Death screen
+		Continue (restart current level)
+		Main menu (return to main menu)
+
+Finish adding levels
+	Player should be able to move between levels
+	Levels should have a PlayableArea bounded zone
+			
+Score system
+	Score multiplier
+	Incorporate timer
+		Affects score based on how much time was spent (faster = better)
+	
+Final art
+
+Finalize audio
+
+Fix any bugs
+
+Gameplay tweaking
+
+Shop (OPTIONAL)
+	Special type of Level
+		Shopkeeper location specified in level layout file with 'K'
+	3 powerups to buy
+		Purchased via collision
+			Player will need Coin counter (use button to fire event for giving coins for now)
+		Placed in Level layout file with 'P'
+		The 3 powerups should be chosen randomly
+		Each powerup will display its cost

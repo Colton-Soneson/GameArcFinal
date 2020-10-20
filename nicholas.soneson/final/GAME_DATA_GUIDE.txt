@@ -1,0 +1,50 @@
+GameSpeed
+DisplayWidth
+DisplayHeight
+PlayZoneLow
+PlayZoneHigh
+LevelsPath
+AssetPath
+BackgroundFile
+PlayerFile
+WallFile
+EnemyFile
+TumbleweedFile
+BulletFile
+FontFile
+Powerup File
+SpriteRows
+SpriteColumns
+SpriteCutX
+SpriteCutY
+Tumbleweed Sprite Rows
+Tumbleweed Sprite Columns
+TumbleSpeed
+TumbleSpawnRate
+Normal BulletDelay
+BulletSpeed
+BulletRows
+BulletColumns
+BulletCutX
+BulletCutY
+Player Health
+Player Movespeed
+Player Damage
+Active Powerup Timer (how long the players active powerup should last in ms)
+Enemy Health
+Enemy Shot Delay
+Enemy Move Speed
+Powerup Timer (how long until a powerup spawns in ms)
+Boots Move Speed
+Large Bullet Dam age
+Fast BulletDelay (for when Gun powerup is picked up)
+Tumbleweed Score
+Enemy Shot Score
+Enemy Killed Score
+Language Path
+English Language File
+Spanisho Language File
+T-Language File
+Audio Path
+Shot Sound File
+First Level File to Load

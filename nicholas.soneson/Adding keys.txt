@@ -1,0 +1,15 @@
+InputSystem.h: Add the key to enum Keys
+
+InputSysem.cpp: Add the key to getKeyState()
+				Add the keys to update()
+
+Event.h: Add the key to enum EventType
+		 Add the event name to string EVENT_NAMES
+		 
+GameEvent.h: Add the Game Event (if one you need isn't already there) to enum GameEventType
+
+InputTranslator.cpp: Make it a listener for your events under initInputTranslator()
+					 Add how to translate the Event to fire off a GameEvent
+
+Game.cpp: Add Game as a listener to any added events under makeListener()
+		  Add how to handle the added events under handleEvent()

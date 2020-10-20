@@ -1,0 +1,20 @@
+Merge SFML graphics-lib over
+
+Player
+	Shooting
+		Shoot in 8 directions via arrow keys
+		Shooting should spawn a bullet in that direction
+		Bullet will continue to move in the fired direction
+		Bullets are removed when they collide with an enemy, obstacle, or the level boundary
+	
+Basic Enemy
+	Spawn in level (placed in level layout file with 'E')
+	
+Menu system
+	Main menu
+		Just have Play, Options, and Quit
+		
+Tumbleweeds
+	Spawn at random intervals
+		Starts on either the left or right side of the screen and moves to the opposite side
+		The starting Y-value is randomly selected (must be within level bounds, lower than Player)
